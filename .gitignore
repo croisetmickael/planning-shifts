@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# Analyse de l'app d'origine : reste en local, pas dans le dépôt public.
+replica/
